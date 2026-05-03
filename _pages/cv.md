@@ -17,20 +17,20 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+<!-- * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: The Users -->
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2026: Research Assistant
+  * Virginia Tech
+  <!-- * Duties included: Merging pull requests -->
+  <!-- * Supervisor: Professor Hub -->
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2026: Teaching Assistant
+  * Virginia Tech
+  <!-- * Duties included: Office hour and grading -->
+  <!-- * Supervisor: Professor Git -->
   
 Skills
 ======
